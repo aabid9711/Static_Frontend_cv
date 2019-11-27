@@ -1,0 +1,121 @@
+.top-container{
+    background-color: #e3f6f5;
+    position: relative;
+    padding-top: 100;
+    font-family: 'Satisfy', cursive;
+    font-family: 'Lobster Two', cursive;
+    font-family: 'Sacramento', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Handlee', cursive;
+    font-family: 'Parisienne', cursive;
+}
+body{
+    margin:0px;
+    text-align: center;
+    color:#40514E
+}
+.bottom-cloud{
+    position: absolute;
+    left: 320;
+    bottom: 300;
+}
+.upper-cloud{
+  position: absolute;
+  right: 320;
+  top: 50;
+}
+h1{
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+}
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+.img1{
+    width: 17%;
+    height: 35%;
+    border-radius: 100%;
+}
+p{
+    font-size: 1.3rem;
+    line-height: 2;
+}
+.footer-link{
+    color: #11999E;
+    text-decoration: none;
+}
+h3{
+    color: #11999E;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.img{
+    width: 30%;
+    height: 30%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+.img2{
+    width: 30%;
+    height: 30%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+   border: dotted #EAF6F6 6px;
+   border-bottom: none;
+   width: 4%;
+   margin: 100px auto;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.para{
+    width: 30%;
+    margin: auto;
+}
+.foot{
+    width: 40%;
+    margin: 40px auto 30px;
+}
+.btn {
+    background-color: #11999E; /* Green */
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .btn:hover{
+      background-color: #30e3cb;
+  }
+  .bottom-container{
+      background-color: #66BFBF;
+      padding: 50px 0px 20px;
+  }
+  a{
+      color: #11999E;
+      margin: 10px 20px;
+  }
+  a:hover{
+      color: #EAF6F6;
+  }
+  .f2{
+    width: 40%;
+    margin: 40px auto 30px;
+  }
+  .cpyright{
+      color: #EAF6F6;
+      font-size: 1rem;
+      padding: 20px 0;
+  }
